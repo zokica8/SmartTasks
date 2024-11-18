@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SmartTasks</string>
+    <string name="intro_illustration">Intro illustration\n</string>
+    <string name="logo">Logo</string>
+    <string name="no_tasks">No tasks for today!</string>
+    <string name="today">Today</string>
+    <string name="arrow_back">Go back</string>
+    <string name="arrow_forward">Arrow Forward</string>
+    <string name="no_internet">Please check your internet connection.</string>
+    <string name="error_serialization">Serialization Error</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="server_error">Server unable to respond. Please try again later.</string>
+    <string name="client_error">Client error, please try again later.</string>
+    <string name="due_date">Due date</string>
+    <string name="days_left">Days left</string>
+    <string name="unknown">unknown</string>
+    <string name="task_detail">Task detail</string>
+    <string name="resolve">Resolve</string>
+    <string name="cant_resolve">Can\'t resolve</string>
+    <string name="unresolved">Unresolved</string>
+    <string name="resolved">Resolved</string>
+    <string name="add_comment">Do you want to add a comment?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="send">Send</string>
+</resources>
